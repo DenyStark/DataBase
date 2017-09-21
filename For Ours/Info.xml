@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <content>
 	<available>
+		<chapter>0</chapter>
 		<chapter>1</chapter>
 		<chapter>2</chapter>
+		<chapter>4</chapter>
 	</available>
 </content>
