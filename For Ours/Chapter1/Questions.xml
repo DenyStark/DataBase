@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <questions>
-	<question text="Почему РосКомНадзор охотится на кита?">
-		<answer>Опасная игра в вк</answer>
-		<answer>Потому что он синий</answer>
-		<answer>Он заставит прыгнуть с крыши</answer>
-		<answer>Потому что он съем человека</answer>
+	<question text="Какой это вид?">
+		<answer>Большая Выпь</answer>
+		<answer>Киви</answer>
+		<answer>Пастушок-уэка</answer>
+		<answer>Лесной пастушок</answer>
 	</question>
-	<question text="сколько в нем личностей?">
-		<answer>23</answer>
-		<answer>13</answer>
-		<answer>12</answer>
-		<answer>7</answer>
+	<question text="Что у них общего?">
+		<answer>Они дают игру</answer>
+		<answer>Они привели к самоубийству</answer>
+		<answer>Они синие</answer>
+		<answer>Они боты в вк</answer>
 	</question>
-	<question text="Откуда она взялась?">
-		<answer>Премия Гильдии киноактёров США</answer>
-		<answer>Премия Оскар</answer>
-		<answer>Нобелевская премия</answer>
-		<answer>Премия Тьюринга</answer>
+	<question text="Что с ним случилось?">
+		<answer>наступил на мину</answer>
+		<answer>упал в грязь</answer>
+		<answer>нажрался</answer>
+		<answer>подскользнулся</answer>
 	</question>
-	<question text="Кто это по версии 4ch?">
-		<answer>Петр Первый</answer>
-		<answer>Житель Сибири</answer>
-		<answer>Людоед</answer>
-		<answer>Хазяин болота</answer>
+	<question text="Что происходит на заднем плане?">
+		<answer>Заставка винды</answer>
+		<answer>появление труб</answer>
+		<answer>это игра</answer>
+		<answer>особая змейка</answer>
 	</question>
-	<question text="Где нашли это фото?">
-		<answer>На сайте linkedin</answer>
-		<answer>«мозг от потреб- ления травки»</answer>
-		<answer>DeepLearn007</answer>
-		<answer>По подписи «дух человека»</answer>
+	<question text="Про что он поет?">
+		<answer>Про 3 сентября</answer>
+		<answer>Про осень</answer>
+		<answer>Про успех</answer>
+		<answer>Про верность</answer>
 	</question>
-	<question text="Как нашли это фото?">
-		<answer>подпись «дух человека»</answer>
-		<answer>на сайте linkedin</answer>
-		<answer>«мозг от потреб- ления травки»</answer>
-		<answer>DeepLearn007</answer>
+	<question text="Как называеться эта штука?">
+		<answer>Спиннер</answer>
+		<answer>Спилер</answer>
+		<answer>Сплинтер</answer>
+		<answer>Вертушка</answer>
 	</question>
-	<question text="Почему про Дурова снова вспомнили?">
-		<answer>выкинул телефон блогера</answer>
-		<answer>показал фак на камеру</answer>
-		<answer>начудил пьяным</answer>
-		<answer>компрометирую- щие фотографии</answer>
+	<question text="кто это?">
+		<answer>Алексей Навальный</answer>
+		<answer>Алексей Новэлин</answer>
+		<answer>Алексей Кушниров</answer>
+		<answer>Дмитрей Медвелев</answer>
 	</question>
-	<question text="Чья эта статуя?">
-		<answer>Криштиану Роналду</answer>
-		<answer>Киану Ривз</answer>
-		<answer>Лионель Андреес</answer>
-		<answer>Константина Хабенски</answer>
+	<question text="Из какого это Фильма?">
+		<answer>Человек паук</answer>
+		<answer>мстители</answer>
+		<answer>мстители возвращение</answer>
+		<answer>железный человек</answer>
 	</question>
-	<question text="Откуда этот символ?">
-		<answer>митинг в России</answer>
-		<answer>парад зашиты природы</answer>
-		<answer>реклама моющего средства</answer>
-		<answer>тренд школьников</answer>
+	<question text="кто она?">
+		<answer>Александра Балковская</answer>
+		<answer>Диана Шурыгигина</answer>
+		<answer>Диана шушытина</answer>
+		<answer>Ирина Сычева</answer>
 	</question>
-	<question text="Где нашли это фото?">
-		<answer>DeepLearn007</answer>
-		<answer>подпись «дух человека»</answer>
-		<answer>на сайте linkedin</answer>
-		<answer>«мозг от потреб- ления травки»</answer>
+	<question text="Откуда это?">
+		<answer>Из вк</answer>
+		<answer>Из Однокласников</answer>
+		<answer>Из инстаграма</answer>
+		<answer>Из фейсбука</answer>
 	</question>
-	<question text="Что это за клип?">
-		<answer>«Между нами тает лед…»</answer>
-		<answer>«За нами едут полицаи…»</answer>
-		<answer>«Слишком поздно…»</answer>
-		<answer>«Тормози Вася…»</answer>
+	<question text="из какого фильма?">
+		<answer>Такси</answer>
+		<answer>Черная молния</answer>
+		<answer>форсаж</answer>
+		<answer>Смертельные гонки</answer>
 	</question>
-	<question text="Что он делает?">
-		<answer>перчит мясо</answer>
-		<answer>показывает прием</answer>
-		<answer>танцует</answer>
-		<answer>показывет фокус</answer>
+	<question text="Каково ему сейчас?">
+		<answer>Нормально</answer>
+		<answer>Збс</answer>
+		<answer>Страшно</answer>
+		<answer>Холодно</answer>
 	</question>
-	<question text="Что это за время?">
-		<answer>время для потреб- ления канибаса</answer>
-		<answer>время ложиться спать</answer>
-		<answer>Время тьмы</answer>
-		<answer>время бухать</answer>
+	<question text="Что это?">
+		<answer>Селезень</answer>
+		<answer>Гусь</answer>
+		<answer>Утка</answer>
+		<answer>Индюк</answer>
 	</question>
-	<question text="Кто сделал косплей на это фото?">
-		<answer>Павел Дуров</answer>
-		<answer>EeOneGuy</answer>
-		<answer>Максим Голополосов</answer>
-		<answer>Юрий Янив</answer>
+	<question text="Как зовут верхнего актера?">
+		<answer>Филипп Крамаренко</answer>
+		<answer>филип Кравченко</answer>
+		<answer>Филип Киркорос</answer>
+		<answer>Антон кудрявцев</answer>
 	</question>
-	<question text="Где нашли это фото?">
-		<answer>«мозг от потреб- ления травки»</answer>
-		<answer>DeepLearn007</answer>
-		<answer>подпись "дух человека" </answer>
-		<answer>в соц сети linkedin</answer>
+	<question text="Из какого она фильма?">
+		<answer>Гремлины</answer>
+		<answer>Гримсби</answer>
+		<answer>Гримены</answer>
+		<answer>Дилеры</answer>
 	</question>
 </questions>
